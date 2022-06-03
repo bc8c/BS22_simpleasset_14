@@ -1,0 +1,17 @@
+{
+  "name": "simpleasset",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.17.0",
+    "body-parser": "~1.19.0",
+    "fabric-ca-client": "~1.4.0",
+    "fabric-network": "~1.4.0"
+  }
+}
